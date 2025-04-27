@@ -14,7 +14,7 @@ Ignorer CNN1
 
 ## VGG-Classification & VGG-Regression
 
-Le code final et les expeériences réalisées avec les modèles VGG se trouvent dans le notebook:[TP4_2025_CNN2_VGG.ipynb](Notebooks/CNN2 + VGG/TP4_2025_CNN2_VGG.ipynb) 
+Le code final et les expeériences réalisées avec les modèles VGG se trouvent dans le notebook: [TP4_2025_CNN2_VGG.ipynb](Notebooks/CNN2%20VGG/TP4_2025_CNN2_VGG.ipynb) 
 
 Ignorer CNN1
 
