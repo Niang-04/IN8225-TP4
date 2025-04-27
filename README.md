@@ -24,4 +24,5 @@ La comparaison des différent modèles se trouve dans le notebook:.
 
 ## Modèles pré-entrainés
 Les modèles entrainés prêts à être utilisé peuvent être obtenues à l'adresse
+
 https://drive.google.com/drive/folders/1FEwf89rRRfl0qpHllKMYSYLRn4QrIE_8?usp=sharing
