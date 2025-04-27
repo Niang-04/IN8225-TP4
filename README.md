@@ -2,13 +2,13 @@
 
 ## CNN1
   
-Le code final et les expeériences réalisées avec CNN1 se trouvent dans le notebook: [CNN1/TP4_2025-CNN1.ipynb](Notebooks/CNN1/TP4_2025-CNN1.ipynb) 
+Le code final et les expeériences réalisées avec CNN1 se trouvent dans le notebook: [TP4_2025-CNN1.ipynb](Notebooks/CNN1/TP4_2025-CNN1.ipynb) 
 
 Ignorer CNN2
 
 ## CNN2
 
-Le code final et les expeériences réalisées avec CNN2 se trouvent dans le notebook:[TP4_2025_CNN2_VGG.ipynb](Notebooks/CNN2 + VGG/TP4_2025_CNN2_VGG.ipynb) 
+Le code final et les expeériences réalisées avec CNN2 se trouvent dans le notebook: [TP4_2025_CNN2_VGG.ipynb](Notebooks/CNN2%20VGG/TP4_2025_CNN2_VGG.ipynb) 
 
 Ignorer CNN1
 
